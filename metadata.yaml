@@ -1,0 +1,40 @@
+_repo: Tales-from-Tennyson_35598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35598-h/images/tennyson-cover.jpg
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+  editor:
+    agent_name: Bellew, Molly K.
+    gutenberg_agent_id: '37778'
+    url: http://www.gutenberg.org/2009/agents/37778
+description: ''
+gutenberg_issued: '2011-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcsh 'Arthur, King -- Juvenile fiction'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892 -- Adaptations'
+tableOfContents: The coming of King Arthur -- Gareth and Lynette -- The marriage of
+  Geraint -- Geraint's quest of honor -- Merlin and Vivien -- Balin and Balan -- Lancelot
+  and Elaine -- The Holy Grail -- Pelleas and Ettarre -- The last tournament -- The
+  passing of Arthur.
+title: Tales from Tennyson
+url: http://www.gutenberg.org/ebooks/35598
